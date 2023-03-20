@@ -120,6 +120,7 @@ living_standard_utopian = {
 
 	triggered_pop_modifier = {
 		potential = {
+			exists = from
 			from = { has_valid_civic = civic_shared_burden }
 		}
 		pop_demotion_time_mult = -0.45
