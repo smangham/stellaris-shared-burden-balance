@@ -32,4 +32,5 @@ If you like this, you might also like:
 	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2948086213]Optimal Genomes - Better Genetic Ascension:[/url] Adds combined traits to simplify running a genetically ascended empire.
 	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1319264195]Loyal Subjects Have Nothing to Fear (from the Colossus):[/url] Loyal vassals and tributaries no longer suffer opinion penalties when you crack a planet.
 	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2953156241][spoiler]Mass Driver Rebuilt[/spoiler] - Fear the Dark:[/url] Adds an extra bonus to the end of the Fear of the Dark origin quest chain.
+	[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2987439465]Automate Infrastructure - Gateways & Hyper Relays[/url]: Adds the option to build one-step gateways, or upgrade Hyper Relays to add a gateway (and keep the relay!)
 [/list]
